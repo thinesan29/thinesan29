@@ -4,9 +4,7 @@
 
 <p> I am a recent graduate with a degree in aerospace engineering. Throughout my studies, I developed valuable skills such as problem-solving and analytical thinking, which I am eager to apply to a career in software engineering. My passion for technology has led me to pursue a career in this field, and I am excited to expand my skillset and become a skilled software engineer.</p>
 
-
-
-I am a recent graduate with a degree in aerospace engineering. Throughout my studies, I developed valuable skills such as problem-solving and analytical thinking, which I am eager to apply to a career in software engineering. My passion for technology has led me to pursue a career in this field, and I am excited to expand my skillset and become a skilled software engineer.<br><br>✅ I recently completed training at the Bright Network Technology Academy, where I built a strong foundation in technology and software development. <br>⭐️ One of my project highlights during the 12-week program at the Bright Network Technology Academy was the development of "Blockbuster Reborn," a full-stack capstone project that showcased my skills and knowledge acquired during the program.<br>🌱 I am interested in using Tailwind CSS to create visually appealing and responsive interfaces, and I am also exploring ways to implement user authentication into my existing projects.<br>⚡Fun Fact: I am a huge Arsenal Fan ! ⚽️
+✅ I recently completed training at the Bright Network Technology Academy, where I built a strong foundation in technology and software development. <br>⭐️ One of my project highlights during the 12-week program at the Bright Network Technology Academy was the development of "Blockbuster Reborn," a full-stack capstone project that showcased my skills and knowledge acquired during the program.<br>🌱 I am interested in using Tailwind CSS to create visually appealing and responsive interfaces, and I am also exploring ways to implement user authentication into my existing projects.<br>⚡Fun Fact: I am a huge Arsenal Fan ! ⚽️
 
 
 ## 🌐 Socials:
