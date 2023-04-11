@@ -15,7 +15,7 @@
 <h3>Projects:</h3>
 - 👨‍💻 All of my projects are available at [https://github.com/thinesan29?tab=repositories](https://github.com/thinesan29?tab=repositories)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🌐 Socials:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/thinesan-manoseelan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thinesan-manoseelan" height="30" width="40" /></a>
 </p>
