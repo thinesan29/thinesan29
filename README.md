@@ -12,6 +12,9 @@
 
 <p>⚡️Fun Fact: I am a huge Arsenal Fan ⚽️ !</p>
 
+<h3>Projects:</h3>
+- 👨‍💻 All of my projects are available at [https://github.com/thinesan29?tab=repositories](https://github.com/thinesan29?tab=repositories)
+
 
 
 ## 🌐 Socials:
