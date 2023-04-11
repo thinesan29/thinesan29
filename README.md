@@ -12,6 +12,8 @@
 
 <p>⚡️Fun Fact: I am a huge Arsenal Fan ⚽️ !</p>
 
+<hr/>
+
 <h3 align="left">🌐 Socials:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/thinesan-manoseelan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thinesan-manoseelan" height="30" width="40" /></a>
@@ -26,7 +28,7 @@
 
 <h3 align="left">📊 GitHub Stats:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thinesan29&show_icons=true&locale=en&layout=compact" alt="thinesan29" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thinesan29&show_icons=true&locale=en&layout=compact" alt="thinesan29" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thinesan29&show_icons=true&locale=en" alt="thinesan29" /></p>
 
