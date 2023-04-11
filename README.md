@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋🏾, I'm Thinesan!</h1>
 
-<h3 align="left"> 💫 About Me:<br/> I am a recent graduate with a degree in aerospace engineering. Throughout my studies, I developed valuable skills such as problem-solving and analytical thinking, which I am eager to apply to a career in software engineering. My passion for technology has led me to pursue a career in this field, and I am excited to expand my skillset and become a skilled software engineer.</h3>
+<h3>💫 About Me:</h3>
+
+<p> I am a recent graduate with a degree in aerospace engineering. Throughout my studies, I developed valuable skills such as problem-solving and analytical thinking, which I am eager to apply to a career in software engineering. My passion for technology has led me to pursue a career in this field, and I am excited to expand my skillset and become a skilled software engineer.</p>
 
 
 
